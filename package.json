@@ -60,6 +60,6 @@
   },
   "homepage": "https://nopecha.com",
   "dependencies": {
-    "node-fetch": "^2.7.0"
+    "node-fetch": "^2.6.1"
   }
 }
